@@ -27,7 +27,7 @@ const b = 2;
 ### 通过 GoGoCode 来编写转换代码
 
 ```javascript
-const $ = require('gogocode');
+const $ = require2('gogocode');
 const script = $(source);
 // 按照你的意图，用 $_$ 当通配符能匹配任意位置的 AST 节点
 const aAssignment = script.find('const a = $_$');
