@@ -3,7 +3,6 @@
 [![npm version](https://img.shields.io/npm/v/gogocode.svg)](https://www.npmjs.com/package/gogocode) [![license](https://img.shields.io/npm/l/gogocode.svg)](LICENSE)
 
 ## GoGoCode 是什么，东半球全网最简单上手的AST处理工具。
-官网123
 
 [English version of README](README.md)
 
